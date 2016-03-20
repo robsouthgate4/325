@@ -1,0 +1,2 @@
+[24-Sep-2015 12:35:58 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/rsouth90/public_html/325/wp-includes/rss-functions.php on line 8
+[24-Sep-2015 20:24:07 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/rsouth90/public_html/325/wp-includes/rss-functions.php on line 8
